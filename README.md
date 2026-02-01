@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @abdullahesr
-- 👀 I’m interested python and html&css , kotlin
-- 🌱 I’m currently learn ing ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...gmail : aeser9958@gmail.com
+👋 Hi, I’m **Abdullah Eser** (@abdullahesr)
 
-<!---
-abdullahesr/abdullahesr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I’m a developer focused on **AI-powered applications**, automation, and modern app ideas.
+
+👀 I’m interested in:
+- **Python** (AI, bots, data, automation)
+- **Vite + React** (fast, modern frontend)
+- **HTML & CSS** (modern UI / vibe coding)
+- **Kotlin** (Android apps)
+
+🌱 Currently learning & building with:
+- Python (advanced usage & real-world projects)
+- Vite + React
+- AI-driven systems and tools
+
+💞️ Open to collaborating on:
+- AI projects
+- Automation tools
+- Modern web & mobile applications
+
+📫 How to reach me:
+- 📧 **Email:** aeser9958@gmail.com
+- 🌍 **GitHub:** github.com/abdullahesr
